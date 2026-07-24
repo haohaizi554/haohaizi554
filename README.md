@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=560&lines=MemoryLeak;Backend+%2F+Crawler+Engineering;Building+UniversalCrawler"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+MemoryLeak;Backend+%2F+Crawler+Engineering;Building+UniversalCrawler"
     alt="Typing SVG"
   />
 </p>
