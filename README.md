@@ -31,18 +31,3 @@ Download Pipeline    retry strategy, CDN fallback, task metadata
 Reliability          resilient DNS, logging, failure isolation
 Product Surface      PyQt GUI, WebUI, CLI
 ```
-
-## Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![HTTPX](https://img.shields.io/badge/HTTPX-111827?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## Contact
-
-- Email: `haohaizi554@gmail.com`
-- WeChat: `MemoryLeak2023`
-- Douyin: [`haohaizi554`](https://www.douyin.com/search/haohaizi554)
