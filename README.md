@@ -6,15 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/haohaizi554">
-    <img src="https://img.shields.io/badge/GitHub-haohaizi554-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:haohaizi554@gmail.com">
-    <img src="https://img.shields.io/badge/Email-haohaizi554%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.douyin.com/search/haohaizi554">
-    <img src="https://img.shields.io/badge/Douyin-haohaizi554-111827?style=for-the-badge&logo=tiktok&logoColor=white" alt="Douyin" />
-  </a>
+  <a href="https://github.com/haohaizi554">GitHub</a> ·
+  <a href="mailto:haohaizi554@gmail.com">Email</a> ·
+  <a href="https://www.douyin.com/search/haohaizi554">Douyin</a>
 </p>
 
 ## About
